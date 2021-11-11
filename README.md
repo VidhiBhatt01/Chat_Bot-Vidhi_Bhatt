@@ -1,5 +1,5 @@
 # Chat_Bot-Vidhi_Bhatt
-Chat bot using DEEP LEARNING,<br>
+Chat bot using DEEP LEARNING.<br>
 
 I made this very basic beginner level chatbot in python using <b>DEEP LEARNING</b>.
 <br>This was basically designed for those customers who were facing difficulty in making an account and were having any complaints regarding the website.
